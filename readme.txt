@@ -1,0 +1,1 @@
+This is my first "on my own" Rust program.  The program incorporates various items learned from the first three chapters of the Rust tutorial.  
