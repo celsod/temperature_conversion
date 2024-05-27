@@ -1,8 +1,10 @@
-//This program is a test of my own skill in making a simple program in Rust to convert user input.
-//The program first allows the user to select what type of temperature conversion they wish to perform.
-//After selecting the type of temperature conversion, the user then enters the temperature they wish to convert.
-//The program displays the results of the temperature conversion.
-//The program is designed to loop until the user indicates they no longer wish to use the program.
+/*
+This program is a test of my own skill in making a simple program in Rust to convert user input.
+The program first allows the user to select what type of temperature conversion they wish to perform.
+After selecting the type of temperature conversion, the user then enters the temperature they wish to convert.
+The program displays the results of the temperature conversion.
+The program is designed to loop until the user indicates they no longer wish to use the program.
+*/
 use std::io;
 
 fn main() {
